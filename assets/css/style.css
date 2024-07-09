@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&family=Staatliches&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo-white {
+    height: 2.5rem;
+}
+/** texto de carta **/
+.card-title{
+    font-weight: 300;
+}
+
+.lugar-text{
+    font-size: 15px;
+    font-weight: 300;
+    color: #212529;
+}
+.lugar-icono{
+    color: #212529;
+    font-size: 12px;
+}
+.empresa-text{
+    font-weight: 300;
+    color: #212529;
+}
+.precio-normal{
+    font-weight: 300;
+    color: #212529;
+}
+.precio-oferta{
+    font-weight: 500;
+    font-size: 20px;
+}
+.car{
+    margin: 10px ;
+}
+
+.titulo{
+    font-weight: 500;
+    font-size: 21px;
+    margin: 1rem;
+
+}
+
+.formulario{
+    border-radius: 0.5rem;
+}
+.boton-enviar{
+    text-align: center;
+}
+.footer{
+    margin-top: 1rem;
+    width: auto;  
+    height: auto;  
+    text-align: center;  
+  
+}
+.footer img{
+   
+    object-fit: cover;  
+    width: 6rem; 
+}
